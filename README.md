@@ -4,7 +4,7 @@ Plataforma brasileira de auditoria defensiva contínua para profissionais de tec
 
 O WebSec Sentinel transforma sinais técnicos dispersos em uma visão que o cliente consegue acompanhar: o que está exposto, qual é o impacto, o que deve ser corrigido primeiro e se a postura de segurança realmente evoluiu ao longo do tempo.
 
-[Acessar demonstração](https://websec-auto-auditor-325258730362.us-east1.run.app/) · [Conhecer a arquitetura](ARCHITECTURE.md) · [Ver decisões de segurança](SECURITY.md)
+[Acessar demonstração](https://websecsentinel.com) · [Conhecer a arquitetura](ARCHITECTURE.md) · [Ver decisões de segurança](SECURITY.md)
 
 ## Por que este produto existe
 
